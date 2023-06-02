@@ -6,7 +6,7 @@ I am an experienced Data Analyst/ Business Intelligence Analyst who is committed
 
 I have a BSc Degree in Computer Science with over 5 years general work experience and 4 years work experience as Data/ BI Analyst.
 
-### My Skills are:
+### My Technical Skills are:
 •	SQL
 •	Pyhton
 •	Microsoft Power BI
